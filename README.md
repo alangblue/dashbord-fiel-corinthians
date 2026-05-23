@@ -7,9 +7,9 @@ Dashboard de vendas criado no Excel com base nos planos do programa Fiel Corinth
 | Aba | Descrição |
 |---|---|
 | Dashboard | Visão geral com KPIs e gráficos |
-| Bases | Base de dados com 200 registros fictícios | 
-| Cálculos | Tabelas Dinâmicas para apoio (PLanilha Oculta) | 
-| Assets | Paleta de cores, imagens e referência dos planos (PLanilha Oculta) |
+| Bases | Base de dados com 200 registros fictícios (Planilha Oculta) | 
+| Cálculos | Tabelas Dinâmicas para apoio (Planilha Oculta) | 
+| Assets | Paleta de cores, imagens e referência dos planos (Planilha Oculta) |
 
 ## 📌 Planos incluídos
 
