@@ -30,3 +30,7 @@ Dashboard de vendas criado no Excel com base nos planos do programa Fiel Corinth
 ## ⚠️ Aviso
 
 Os dados utilizados são **fictícios**, gerados exclusivamente para fins de portfólio.
+
+## 📷 PrintScreen do Dashboard
+
+![Dashboard](dashboard-sccp.png)
